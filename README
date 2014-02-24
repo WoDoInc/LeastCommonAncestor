@@ -1,1 +1,1 @@
-Checks for the least common ancestor between two nodes on a binary tree (not a BST, which has a pointer to the previous node).
+Checks for the least common ancestor between two nodes on a binary search tree.
